@@ -32,5 +32,5 @@
       </div>
     </div>
   </div>
-
-  <div class="container-fluid main-container">
+<body>
+<html>
